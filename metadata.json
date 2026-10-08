@@ -1,0 +1,6 @@
+{
+  "name": "NovaArcade - 5 Oyunlu Web Oyun Platformu",
+  "description": "Açık Dünya Çiftlik, Şehir Kurma, 2 Kişilik Tank Düellosu, Siber Koşucu ve Galaksi Tuğla Kırıcı oyunları, kullanıcı profil sistemi, skor tablosu ve reklam yönetimi sunan web oyun portalı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
